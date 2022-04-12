@@ -1,0 +1,10 @@
+
+
+name: SRS WS CICD
+
+on:
+  push:
+    branches: [sit]
+  pull_request:
+    branches: [sit]
+
